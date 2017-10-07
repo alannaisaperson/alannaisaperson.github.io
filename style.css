@@ -1,0 +1,37 @@
+body{background-color: #dae2e5;}
+
+h1{margin: 50px, 0px, 0px, 0px;
+	font-size: 50px;
+	font-family: sans-serif;
+	text-align: center;
+	font-decoration: bold;
+	padding: 0px 30px;}
+h2{padding: 0px 10 px;
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;}
+
+.mainHeader{
+	background-color: white;
+	padding: 10px;}
+
+h3{
+	margin-left: 200px;
+	font-size: 30px;
+font-style: bold;}
+
+.shortBio{
+margin-top: 20px;
+font-family: courier;
+font-size: 15px;
+margin-left: 100px; 
+text-align: left;}
+
+.skill:hover{
+	font-size: 25px;
+	font-color: navy;}
+
+li{margin-left: 200px;
+font-family: courier;}
+
+
